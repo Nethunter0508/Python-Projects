@@ -169,7 +169,7 @@ This collection demonstrates:
 
 ---
 
-## 📈 Skills Demonstrated
+## Skills Demonstrated
 
 * Python Programming
 * Software Development
@@ -184,19 +184,19 @@ This collection demonstrates:
 
 ---
 
-## 🤝 Contributions
+## Contributions
 
 Contributions, suggestions, and improvements are welcome. Feel free to fork the repository, create feature branches, and submit pull requests.
 
 ---
 
-## ⭐ Support
+## Support
 
 If you find this repository useful, consider giving it a star ⭐ to support the project and help others discover these Python resources.
 
 ---
 
-## 📜 License
+## License
 
 This repository is intended for educational and learning purposes. Please review individual project requirements and dependencies before commercial use.
 
