@@ -202,6 +202,6 @@ This repository is intended for educational and learning purposes. Please review
 
 ---
 
-### 👨‍💻 Author
+### Author
 
 Developed and maintained as part of a continuous learning journey in Python programming, software development, automation, artificial intelligence, and modern technology solutions.<br>Sujal Yadav
